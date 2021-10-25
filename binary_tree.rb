@@ -42,6 +42,8 @@ class Node
     end
 
     def print_in_order
+        # Prints left, then self, then right
+        # Most common printing of data is this way.
         if left != nil
             left.print_in_order
         end
@@ -52,6 +54,7 @@ class Node
     end
 
     def print_pre_order
+        # Prints self, then left, then right
         puts self.data
         if left != nil
             left.print_pre_order
