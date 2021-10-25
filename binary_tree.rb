@@ -23,7 +23,7 @@ class Node
         end
     end
 
-    def contains(value)
+    def contains?(value)
         if value == data
             return true
         elsif value < data
@@ -41,4 +41,25 @@ class Node
         end
     end
 
+    def print_in_order
+        if left != nil
+            left.print_in_order
+        end
+        puts self.data
+        if right != nil
+            right.print_in_order
+        end
+    end
+
+    def print_pre_order
+        puts self.data
+        if left != nil
+            left.print_pre_order
+        end
+        if right != nil
+            right.print_pre_order
+        end
+    end
+
 end
+
