@@ -1,11 +1,4 @@
-require 'pry'
-
 class HashTable
-    # Assumed to be O1 run time, but if bad hashing it can approach On
-
-    # Key => Hash => Index of Array
-    # Need to avoid collisions, we are going to add a sub array
-    # We need to store the keys with the values when taking the linkedlist approach
 
     LOAD_FACTOR = 0.7
 
