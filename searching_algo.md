@@ -1,4 +1,4 @@
-# Types of Searches
+# Types of Searching
 
 ## Depth First Search
 
