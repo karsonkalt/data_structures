@@ -1,3 +1,6 @@
+# This is a binary search tree where it compares if on the left is smaller and on the right is always larger,
+# Uses a depth first search DFS.
+
 class Node
     attr_accessor :data, :left, :right
 
