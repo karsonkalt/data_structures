@@ -18,12 +18,14 @@ O(n) means that the time scales with the size of the data, where size is n.
 
 1. Worst case only. Not average, not best, the worst.
 2. Remove constants
-3. Different terms for inputs
+3. Different variables for inputs (e.g. O(a + b))
 4. Drop non-dominants
 
 If go through the array twice, you might think it is O(2n), but you drop constants, so it is just O(n). Remember this is because we are just looking for how things scale roughly.
 
 [Watch Gayle McDowell's Big O Notation Video on YouTube](https://www.youtube.com/watch?v=v4cd1O4zkGw&ab_channel=HackerRank)
+
+Anything that happens after each other is added. Anything nested is multiplied.
 
 ## O(n) Linear Time
 
@@ -96,7 +98,7 @@ logFirstTwoBoxes(boxes); // O(2)
 // We round down to O(1)
 ```
 
-## O(n^2)
+## O(n^2) Quadratic Time
 
 ```javascript
 // Log all the pairs in the array
