@@ -1,6 +1,16 @@
+**NOTE:** Some information taken from [bigocheatsheet.com](http://www.bigocheatsheet.com)
+
+# What is Good Code
+
+1. Readable
+2. Scalable
+
+- Speed – Dicatated by the CPU
+- Memory – AKA RAM, more accessable nowadays, but it is still finite.
+
 # Big O
 
-Big O notation looks at time complexity.
+Big O notation looks at time complexity. When we write code, we want to write things that are built for scale. Think outside of a small term here and now, think long-term.
 
 O(1) means that the time is constant. Now matter how big, it will always be the same.
 O(n) means that the time scales with the size of the data, where size is n.
@@ -16,9 +26,13 @@ O(n) means that the time scales with the size of the data, where size is n.
 
 ### Rules from Udemy Videos
 
-1. Worst case only. Not average, not best, the worst.
+1. Worst case only -- Not average, not best, the worst.
 2. Remove constants
 3. Different variables for inputs (e.g. O(a + b))
+
+- Addition for steps in order
+- Multiplication for nested steps
+
 4. Drop non-dominants
 
 If go through the array twice, you might think it is O(2n), but you drop constants, so it is just O(n). Remember this is because we are just looking for how things scale roughly.
@@ -112,3 +126,9 @@ function allPairsInArray(array) {
   }
 } //O(n^2)
 ```
+
+## O(n!) Factorial Time
+
+Adding a loop for every element that you are iterating over. Pretty much never use this, it's expensive!
+
+##
