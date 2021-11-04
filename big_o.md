@@ -3,14 +3,41 @@
 # What is Good Code
 
 1. Readable
-2. Scalable
+2. Scalable -- This is a big reason for Big O
 
 - Speed – Dicatated by the CPU
 - Memory – AKA RAM, more accessable nowadays, but it is still finite.
 
+## The three pillars of code
+
+1. Readable
+2. Speed (Time Complexity)
+3. Memory (Space Complexity)
+
+## Space Complexity
+
+1. Variables
+2. Data structures
+3. Funciton calls
+4. Allocations
+
+When we look at space complexity, we only look at additional memmory, not the size of the input.
+
+```javascript
+function arrayOfHiNTimes(n) {
+  let array = [];
+  for (let i = 0; i < n; n++) {
+    // O(1)
+    array.push("hi"); // O(n)
+  }
+  return array;
+} // O(n + 1)
+// Simplifies to O(n) for space complexity
+```
+
 # Big O
 
-Big O notation looks at time complexity. When we write code, we want to write things that are built for scale. Think outside of a small term here and now, think long-term.
+Big O notation looks at time complexity or space complexity. When we write code, we want to write things that are built for scale. Think outside of a small term here and now, think long-term.
 
 O(1) means that the time is constant. Now matter how big, it will always be the same.
 O(n) means that the time scales with the size of the data, where size is n.
@@ -27,8 +54,9 @@ O(n) means that the time scales with the size of the data, where size is n.
 ### Rules from Udemy Videos
 
 1. Worst case only -- Not average, not best, the worst.
-2. Remove constants
-3. Different variables for inputs (e.g. O(a + b))
+1. AKA the upper bound.
+1. Remove constants
+1. Different variables for inputs (e.g. O(a + b))
 
 - Addition for steps in order
 - Multiplication for nested steps
@@ -131,4 +159,6 @@ function allPairsInArray(array) {
 
 Adding a loop for every element that you are iterating over. Pretty much never use this, it's expensive!
 
-##
+## LEFT OFF
+
+Section summary for Big O
