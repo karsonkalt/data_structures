@@ -1,0 +1,296 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="681px" height="191px" viewBox="-0.5 -0.5 681 191" content="&lt;mxfile&gt;&lt;diagram id=&quot;VxYpbBBVx9rDAVENABGC&quot; name=&quot;Page-1&quot;&gt;5VpNj5swEP01kdrDVvgDQo5tdre99JRD26MLJqAlOHKcr/76GjAJLA5qVDResbmAx+OY9zxvzAAzstycvkq2Tb+LmOcz7MWnGXmcYYz8MNCH0nKuLdRDtWEts9g4XQ2r7A83Rs9Y91nMdx1HJUSusm3XGImi4JHq2JiU4th1S0TenXXL1rxnWEUs71t/ZLFKa2voe1f7N56tUzOz75mODWt8jWGXslgcWybyNCNLKYSqzzanJc9L7hpa6nHPN3ov1yV5of5pgLmOA8v3Bpu5MHVuwPJYYzfNQhT68CVVm1y3kD6t3Uufm5dgTDuxl5HxombRmFxz47W4wNdhw8WGK3nWLpLnTGWH7r8zs37ri98Voz4xMG9Axm8GMkJAmGkPcpL9FgWLouxD8LEHX4p9EfNyrKfhHtNM8dWWVUCOWtA2Ng5cKn4a5qMPtBkQmDA06SA0zWNLW8aUtmRFvBGYCUAWf9FffIqhFn/uDKIPBHExEN/0P+M7yfJ8KXIhq7EkYUHolcN2SooX3upZzolf9SSiUC27V/3GUQrxu0pBGE4qqJ9FQAILNTt8O3MSoMgi9E6MGok8/yxD65PfNH+ZSKsaj6dO62xa43FDoHaVZnKr7Hz328oDdiiWwJFYiEUsUGm4Ie6tisXCDZ5DiYW8lz3qAb3WXQCou9CR7nyL7qBiC997EwusOws3GConNZNbdUempbtXZRT2AHU3H6AZT4rmC60NzRSOZjwUzWhSNCOXNL+faHaYM4gPsjUTW40E9fCFwDxfsmIEq5GH6sCRt9hYa2VObGr5rLVCLWpJqt84agnd3dgSDJeS3JJMHWakoSJt5O3VLcnIIcvN1OBvYHA/SVKoJEnRnRhhazQrNxSKm6HcNqkajXjudhA6lNwmdVOLHd7U0qF3rZOq0IhLlofq4EnFMoXLGLp5/fKk6mt9vkOe/gI=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 440 23.42 L 543.77 45.27" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 548.91 46.35 L 541.34 48.33 L 543.77 45.27 L 542.78 41.48 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 360 23.89 L 266.22 44.73" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 261.09 45.87 L 267.17 40.93 L 266.22 44.73 L 268.68 47.77 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="360" y="0" width="80" height="30" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 15px; margin-left: 361px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(6)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="400" y="19" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(6)
+                </text>
+            </switch>
+        </g>
+        <path d="M 571.25 70 L 563.72 76.02" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 559.62 79.3 L 562.9 72.2 L 563.72 76.02 L 567.28 77.66 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 608.75 70 L 616.28 76.02" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 620.38 79.3 L 612.72 77.66 L 616.28 76.02 L 617.1 72.2 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="550" y="40" width="80" height="30" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 55px; margin-left: 551px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(4)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="590" y="59" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(4)
+                </text>
+            </switch>
+        </g>
+        <path d="M 182.5 70 L 163.41 77.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 158.54 79.58 L 163.74 73.74 L 163.41 77.63 L 166.34 80.23 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 260 65 L 313.82 78.46" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 318.92 79.73 L 311.28 81.43 L 313.82 78.46 L 312.97 74.64 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="180" y="40" width="80" height="30" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 55px; margin-left: 181px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(5)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="220" y="59" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(5)
+                </text>
+            </switch>
+        </g>
+        <path d="M 105 110 L 99.5 115.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 95.79 119.21 L 98.27 111.78 L 99.5 115.5 L 103.22 116.73 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 156 110 L 174.12 117.55" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 178.97 119.57 L 171.16 120.11 L 174.12 117.55 L 173.85 113.65 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="80" y="80" width="80" height="30" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 95px; margin-left: 81px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(4)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="120" y="99" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(4)
+                </text>
+            </switch>
+        </g>
+        <path d="M 65 150 L 59.5 155.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 55.79 159.21 L 58.27 151.78 L 59.5 155.5 L 63.22 156.73 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 116 150 L 134.12 157.55" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 138.97 159.57 L 131.16 160.11 L 134.12 157.55 L 133.85 153.65 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="40" y="120" width="80" height="30" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 135px; margin-left: 41px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(3)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="80" y="139" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(3)
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="160" width="80" height="30" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 175px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(2)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="40" y="179" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(2)
+                </text>
+            </switch>
+        </g>
+        <rect x="100" y="160" width="80" height="30" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 175px; margin-left: 101px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(1)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="140" y="179" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(1)
+                </text>
+            </switch>
+        </g>
+        <rect x="140" y="120" width="80" height="30" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 135px; margin-left: 141px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(2)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="180" y="139" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(2)
+                </text>
+            </switch>
+        </g>
+        <path d="M 305 110 L 299.5 115.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 295.79 119.21 L 298.27 111.78 L 299.5 115.5 L 303.22 116.73 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 342.5 110 L 352.2 116.47" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 356.57 119.38 L 348.8 118.41 L 352.2 116.47 L 352.69 112.58 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="280" y="80" width="80" height="30" fill="#d80073" stroke="#a50040" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 95px; margin-left: 281px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #ffffff; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(3)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="320" y="99" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(3)
+                </text>
+            </switch>
+        </g>
+        <rect x="240" y="120" width="80" height="30" fill="#d80073" stroke="#a50040" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 135px; margin-left: 241px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #ffffff; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(2)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="280" y="139" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(2)
+                </text>
+            </switch>
+        </g>
+        <rect x="340" y="120" width="80" height="30" fill="#d80073" stroke="#a50040" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 135px; margin-left: 341px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #ffffff; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(1)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="380" y="139" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(1)
+                </text>
+            </switch>
+        </g>
+        <path d="M 525 110 L 519.5 115.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 515.79 119.21 L 518.27 111.78 L 519.5 115.5 L 523.22 116.73 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 576 110 L 594.12 117.55" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 598.97 119.57 L 591.16 120.11 L 594.12 117.55 L 593.85 113.65 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="500" y="80" width="80" height="30" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 95px; margin-left: 501px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(3)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="540" y="99" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(3)
+                </text>
+            </switch>
+        </g>
+        <rect x="460" y="120" width="80" height="30" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 135px; margin-left: 461px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(2)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="500" y="139" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(2)
+                </text>
+            </switch>
+        </g>
+        <rect x="560" y="120" width="80" height="30" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 135px; margin-left: 561px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(1)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="600" y="139" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(1)
+                </text>
+            </switch>
+        </g>
+        <rect x="600" y="80" width="80" height="30" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 95px; margin-left: 601px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                fibonacci(2)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="640" y="99" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    fibonacci(2)
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
