@@ -158,7 +158,21 @@ function allPairsInArray(array) {
 ## O(n!) Factorial Time
 
 Adding a loop for every element that you are iterating over. Pretty much never use this, it's expensive!
+Bad. Bad Bad.
 
-## LEFT OFF
+## O(n^n) Exponential Time
 
-Section summary for Big O
+Every additional element we get exponential increase in funciton calls.
+How ever many recursion calls happen inside of the recursion tree is the base? I think.
+
+We can avoid O(n^2) with memoization.
+
+Tail call optimization is something that exists in many languages that will not increase the call stack.
+
+Pros
+
+- Dry
+
+Cons
+
+- Large Stack

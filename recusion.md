@@ -50,3 +50,8 @@ inception();
 2. Identify the recursive case
 3. Get closer and closer and return when needed
 4. We usually have two returns.
+
+# Tip
+
+Every time I see a tree or converting something into a tree, consider recursion.
+Divide and conquer have recursion built into them.
