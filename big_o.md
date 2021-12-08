@@ -160,12 +160,12 @@ function allPairsInArray(array) {
 Adding a loop for every element that you are iterating over. Pretty much never use this, it's expensive!
 Bad. Bad Bad.
 
-## O(n^n) Exponential Time
+## O(2^n) Exponential Time
 
 Every additional element we get exponential increase in funciton calls.
-How ever many recursion calls happen inside of the recursion tree is the base? I think.
+How ever many recursion calls happen inside of the recursion tree is the base.
 
-We can avoid O(n^2) with memoization.
+We can avoid O(2^n) with memoization.
 
 Tail call optimization is something that exists in many languages that will not increase the call stack.
 
