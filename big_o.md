@@ -1,3 +1,5 @@
+## Big O Notation
+
 **NOTE:** Some information taken from [bigocheatsheet.com](http://www.bigocheatsheet.com)
 
 # What is Good Code
