@@ -21,8 +21,9 @@ var camelMatch = function (queries, pattern) {
       } else if (lett === lett.toUpperCase()) {
         return false;
       }
-      return true;
     }
+
+    return pattern.length === pIndex ? true : false;
   });
 };
 
