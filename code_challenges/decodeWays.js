@@ -1,30 +1,31 @@
 // 11106
 
 let numDecodings = (s) => {
-  let N = s.length;
-  let ok = (x) => 1 <= x && x <= 26;
-  let cache = {};
-
-  let go = (index) => {
-    if (cache[index]) return 1;
-
-    if (index == N) return 1;
-
-    let cnt = 0;
-    let one = Number(s[index]);
-    let two = one && index + 1 < N ? Number(s[index] + s[index + 1]) : 0;
-
-    if (ok(one)) cnt += go(index + 1);
-    if (ok(two)) cnt += go(index + 2);
-
-    cache[index] = cnt;
-
-    return cnt;
+  const valid = (s) => {
+    if (s[0] === "0") return false;
+    return 1 <= s && s <= 26;
   };
 
-  return go(0);
+  let cache = {};
+  function recurse(s) {
+    if (cache[s]) return cache[s];
+
+    if (s === "") return 1;
+
+    let num = 0;
+    if (s[0] && valid(s[0])) {
+      num += recurse(s.slice(1));
+    }
+
+    if (s[1] && valid(s[0] + s[1])) {
+      num += recurse(s.slice(2));
+    }
+
+    cache[s] = num;
+    return num;
+  }
+
+  return recurse(s);
 };
 
 console.log(numDecodings("11106"));
-
-function mySolution(string) {}
