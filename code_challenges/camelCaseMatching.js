@@ -1,30 +1,10 @@
-const queries = [
-  "FooBar",
-  "FooBarTest",
-  "FootBall",
-  "FrameBuffer",
-  "ForceFeedBack",
-];
-const pattern = "FB";
-
 var camelMatch = function (queries, pattern) {
-  // iterate through queries
   return queries.map((query) => {
-    let pIndex = 0;
-
-    for (const lett of query) {
-      //  if it's a match then move forward
-      // if it's a lowercase ignore it
-      // if it's capital then it needs to match
-      if (lett === pattern[pIndex]) {
-        pIndex++;
-      } else if (lett === lett.toUpperCase()) {
-        return false;
-      }
+    let i = 0;
+    for (const a of query) {
+      if (a === pattern[i]) i++;
+      else if (a === a.toUpperCase()) return false;
     }
-
-    return pattern.length === pIndex ? true : false;
+    return i === pattern.length;
   });
 };
-
-camelMatch(queries, pattern);
