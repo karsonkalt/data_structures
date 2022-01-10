@@ -36,7 +36,6 @@ function scrollingNum(range1, range2) {
       visited.add(idx);
       visitedNums.add(num);
       let nextIdx = num + idx;
-      //debugger
       if (nextIdx > l) {
         nextIdx = nextIdx % l;
       }
